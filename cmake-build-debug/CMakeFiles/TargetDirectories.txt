@@ -1,0 +1,3 @@
+C:/Users/Mehdi/OneDrive/Bureau/L3/Systeme_d'exploitation/ThreadAvecFusion/cmake-build-debug/CMakeFiles/ThreadAvecFusion.dir
+C:/Users/Mehdi/OneDrive/Bureau/L3/Systeme_d'exploitation/ThreadAvecFusion/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Mehdi/OneDrive/Bureau/L3/Systeme_d'exploitation/ThreadAvecFusion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
